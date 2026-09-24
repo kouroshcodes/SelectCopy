@@ -15,3 +15,7 @@ This compiles `main.swift`, signs the app ad-hoc, and installs it to `/Applicati
 The menu bar menu has toggles for Copy on Select, a ✅ flash on copy, and Launch at Login.
 
 Requires macOS 13+.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
